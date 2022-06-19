@@ -2,5 +2,5 @@
 	"ip":"MorcillaLand1.aternos.me",
 	"port": "30545",
 	"name": "ERMANUEL",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
